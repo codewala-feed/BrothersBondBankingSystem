@@ -1,4 +1,3 @@
-
 ---
 
 # BROTHERS BOND BANKING SYSTEM (BBS)
@@ -7,7 +6,7 @@
 
 ## 1. System Overview
 
-The **BrothersBond Banking System (BBS)** pilot represents a simplified enterprise banking ETL framework designed to simulate ingestion of product data from a legacy mainframe environment, process it through structured transformation layers, and produce integrated datasets for downstream consumption.
+The **BrothersBond Banking System (BBS)** pilot version represents a simplified enterprise banking ETL framework designed to simulate ingestion of product data from a legacy mainframe environment, process it through structured transformation layers, and produce integrated datasets for downstream consumption.
 
 The architecture follows a **layered and extended data pipeline model**:
 
@@ -391,4 +390,3 @@ Reusable generic scripts
 Multi-product scalable design
 
 ---
-
