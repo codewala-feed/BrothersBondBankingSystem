@@ -41,7 +41,7 @@ Example tables:
 
 ### Hive Database
 
-Name: `bbs_rtl_hive`
+Name: `bdpp_bbs_rtl_hive`
 
 Purpose:
 
